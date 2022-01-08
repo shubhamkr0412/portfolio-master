@@ -30,12 +30,12 @@ function Projects() {
               isBlog={false}
               title="Ajio Clone "
               description="We have created a clone of e-commerce website Ajio. And we have implemented all the functionality and features similar to real website."
-              link="https://github.com/Ramlala-Yadav-Git/ketto-clone"
+              link="https://github.com/shubhamkr0412/AJIO"
               tech=" HTML, CSS, JavaScript,Express, MongoDB, Mongoose"
               duration=" 1 Week"
               Features="Sign-In/Sign-Up, Details of Products, SearchBar for Navigation"
               // linkmedium="https://avinashrexx.hashnode.dev/cloning-of-agoda-website"
-              linklive="https://ketto.herokuapp.com"
+              linklive="https://github.com/shubhamkr0412/AJIO"
             />
           </Col>
 
@@ -47,9 +47,9 @@ function Projects() {
               duration=" 1 Week"
               description="Cloned uniqlo is an American marketing e-commercial website, used by people to buy different kinds of clothing products.  "
               tech=" HTML, CSS, JavaScript"
-              link="https://github.com/harshchaturvedi1/mailChimp-clone"
+              link="https://github.com/shubhamkr0412/Uniqolo"
               linkmedium=""
-              linklive="https://mail-chimp-clone.vercel.app/"
+              linklive="https://github.com/shubhamkr0412/Uniqolo"
               Features=" Log-In/Sign-Up, Add to Cart and filter functionality "
             />
           </Col>
