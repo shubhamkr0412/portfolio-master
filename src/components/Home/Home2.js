@@ -99,7 +99,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="g"
+                  href="mailto:shubham35godda@gmail.com?subject=subject&cc=cc@example.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
