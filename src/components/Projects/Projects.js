@@ -35,7 +35,7 @@ function Projects() {
               duration=" 1 Week"
               Features="Sign-In/Sign-Up, Details of Products, SearchBar for Navigation"
               // linkmedium="https://avinashrexx.hashnode.dev/cloning-of-agoda-website"
-              linklive="https://github.com/shubhamkr0412/AJIO"
+              linklive="https://shubhamkr0412.github.io/AJIO-CLONE-1/"
             />
           </Col>
 
@@ -49,7 +49,7 @@ function Projects() {
               tech=" HTML, CSS, JavaScript"
               link="https://github.com/shubhamkr0412/Uniqolo"
               linkmedium=""
-              linklive="https://github.com/shubhamkr0412/Uniqolo"
+              linklive="https://shubhamkr0412.github.io/Uniqlo2/"
               Features=" Log-In/Sign-Up, Add to Cart and filter functionality "
             />
           </Col>
